@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 198, 241);
+}
+
+nav ul {
+    float: right;
+    padding-right: 60px;
+    margin-top: -15%;
+}
+
+ul a {
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+.container-one {
+    width: 50%;
+    height: 300px;
+}
+
+.pic h1 {
+    margin-left: 60%;
+    margin-top: -25%;
+}
+
+.pic h4 {
+    margin-left: 60%;
+}
+
+.pic p {
+    margin-left: 60%;
+}
+
+.About {
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+.About h1 {
+    margin-left: 150px;
+}
+
+.gallery h1 {
+    margin-top: 10%;
+    margin-left: 13%;
+}
+
+.gallery img {
+    padding: 10px;
+    width: 280px;
+    height: 400px;
+}
+
+.display {
+    display: flex;
+
+}
+
+.gallery {
+    margin-left: 150px;
+
+}
